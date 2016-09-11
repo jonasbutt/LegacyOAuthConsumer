@@ -1,2 +1,2 @@
 # LegacyOAuthConsumer
-.NET Core client library for consuming OAth 1.0 protected resources.
+.NET Core client library for consuming OAuth 1.0 protected resources.
